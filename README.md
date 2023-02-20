@@ -1,8 +1,6 @@
 # Algorithms
 
-This repository is for the Algorithms course at the National University of Colombia for the 2023-1 semester
-
----
+This repository is for the Algorithms course at the National University of Colombia for the 2023-1 semester.  In the following is a description of each work developed
 
 ### 1 __Introduction to the Python Laboratory Task with Numpy, Pandas, and Data Visualization__:
 
