@@ -4,7 +4,8 @@ This repository is for the Algorithms course at the National University of Colom
 
 ---
 
-### Laboratory 1 (__Introduction to the Python Laboratory Task with Numpy, Pandas, and Data Visualization__)
+### 1 __Introduction to the Python Laboratory Task with Numpy, Pandas, and Data Visualization__:
+
 In this laboratory task, we will apply and expand our knowledge of Python programming, using the Google Colab environment as our development platform. The task is based on a Colab notebook provided by the instructor here, which covers various aspects of Python programming, including variables, data types, control structures, functions, and more.
 
 The notebook also provides an introduction to two powerful libraries for data analysis and manipulation: NumPy and Pandas. NumPy is a fundamental library for scientific computing in Python, providing support for powerful N-dimensional arrays and a wide range of mathematical functions. Pandas, on the other hand, is a popular library for data manipulation and analysis, providing powerful data structures for working with tabular data.
