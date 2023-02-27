@@ -9,7 +9,11 @@ This repository is for the Algorithms course at the National University of Colom
 
 * [X] **2 __The PyData Toolbox with Scott Sanderson__:**
 
-> 
+> In this laboratory, you will reproduce and modify the content of the "The PyData Toolbox with Scott Sanderson" video by Scott Sanderson on YouTube. You will copy the Lab2.ipynb file into your Google Drive, which is a modified version of Scott Sanderson's Ipython notebook from the talk. You will correct the Python matrix multiplication code, ensuring that the matrix dimensions are compatible. For each code cell that you write, you will add text cells with labels such as "My own example k," "My own example k+1," etc.
+>
+>Additionally, you will write code for matrix multiplication in several programming languages such as NumPy, C, C++, JavaScript, and Java. You will run all codes for 10 times using the same 600×100 and 100x600 matrices used in Python while measuring and collecting the running times. After that, you will build a dataframe with the average times and the speed factor compared to the language that is faster.
+>
+>To use the read_avocados function from check AvocadosDataRead.ipynb, you will include an analysis similar to the one performed with the avocados data using any data set from [datos.gov.co](datos.gov.co).
 
 * [X] **3 __Applied Data Science with Python in [cognitiveclass.ai](https://cognitiveclass.ai/)__:**
 
